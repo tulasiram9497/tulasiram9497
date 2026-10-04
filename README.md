@@ -1,5 +1,5 @@
-# 💫 About Me:
-# 👋 Hi, I'm Tulasi Ram<br><br>### AI/ML Engineer | Generative AI | AI Agents | Automation | Full-Stack Development<br><br>I'm an AI/ML-focused developer interested in building practical products with **Machine Learning, Generative AI, LLMs, AI Agents, and automation**.<br><br>I enjoy turning ideas into working software — from AI-powered applications and automation workflows to full-stack products.<br><br>### 🚀 What I'm Working On<br><br>- 🤖 Generative AI & LLM applications<br>- 🧠 AI Agents and agentic workflows<br>- ⚙️ AI automation using n8n<br>- 📊 Machine Learning with Python<br>- 🌐 Full-stack applications with React and Node.js<br>- 🚀 Deploying and shipping real-world projects<br><br>### 🛠️ Current Stack<br><br>**AI/ML:** Python, TensorFlow, NumPy, Pandas, FastAPI  <br>**Generative AI:** LLMs, AI Agents, Prompt Engineering  <br>**Frontend:** HTML, CSS, JavaScript, React, Tailwind CSS  <br>**Backend:** Node.js, Express.js, REST APIs  <br>**Database:** MongoDB, Mongoose  <br>**Automation:** n8n  <br>**Tools:** Git, GitHub, VS Code, npm  <br>**Deployment:** Netlify<br><br>### 🎯 Currently<br><br>Building projects at the intersection of **AI + software engineering + automation**, while continuously improving my skills in machine learning, DSA, system building, and production-ready AI applications.<br><br>### 🤝 Let's Connect<br><br>I'm interested in collaborating on **AI/ML projects, GenAI applications, AI agents, automation, open-source projects, and innovative products.**
+
+# 👋 Hi, I'm Tulasi Ram
 
 
 ## 🌐 Socials:
